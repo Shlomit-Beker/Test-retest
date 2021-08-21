@@ -7,3 +7,5 @@ Includes the following functions:
 4. corrmatrix_all: Calculates correlation matrix from a csv file. input: string of csvTable name. output: correlation matrix MAT. 
 5. pearsonTestRetest: Pearson correlations on all test-retest pairs
 6. similaityIndex: Calculates a composite score for each individul based on the ICC score table. 
+7. plotICC_numberTrials: plots changes in ICC as a function of number of trials used.
+
