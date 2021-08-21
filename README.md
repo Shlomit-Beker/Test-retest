@@ -9,3 +9,4 @@ Includes the following functions:
 6. similaityIndex: Calculates a composite score for each individul based on the ICC score table. 
 7. plotICC_numberTrials: plots changes in ICC as a function of number of trials used.
 
+Shlomit Beker 2020. shlomitbeker@gmail.com
