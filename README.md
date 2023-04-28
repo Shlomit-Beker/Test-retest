@@ -10,4 +10,3 @@ Includes the following functions:
 7. plotICC_numberTrials: plots changes in ICC as a function of number of trials used.
 
 Shlomit Beker 2020. shlomitbeker@gmail.com
-
