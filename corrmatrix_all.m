@@ -1,7 +1,7 @@
 function MAT = corrmatrix_all(csvTable)
 
 % Calculates correlation matrix from a csv file. 
-% input: string of csvTable name. 
+% input: string of csvTable name. csvTable contains columns with variables, with / without header. 
 % output: correlation matrix MAT. code written for the VAMP TRT paper
 
 Table = readtable(csvTable);
